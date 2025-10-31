@@ -1,0 +1,11 @@
+id,channel_name,channel_type
+1,Email,Organic
+2,Webinar,Organic
+3,LinkedIn Ads,Paid
+4,Reddit Ads,Paid
+5,Google Ads,Paid
+6,Referral,Referral
+7,Television,Paid
+8,Newspaper,Paid
+9,Podcast,Organic
+10,Physical,Paid

@@ -1,0 +1,211 @@
+id,name,client_type,total_assets_under_management,investment_horizon,investment_goal,risk_tolerance
+1,"Braun, Kulas and Deckow",Institutional,130000000,1,Capital Appreciation,Low
+2,Crist and Sons,Hedge Fund,940000000,2,Capital Appreciation,Low
+3,"D'Amore, Gusikowski and Price",Family Office,770000000,1,Capital Appreciation,Low
+4,Bartoletti-Mann,Hedge Fund,830000000,7,Capital Preservation,High
+5,Nikolaus Inc,High Net Worth Individual,550000000,7,Capital Appreciation,High
+6,"Greenfelder, Doyle and Cronin",Institutional,1400000000,8,Income Generation,Low
+7,Bailey-Senger,Hedge Fund,240000000,6,Income Generation,Medium
+8,"Nicolas, Emmerich and Koss",Hedge Fund,820000000,2,Risk Management,Low
+9,Kunze Group,Institutional,630000000,5,Capital Appreciation,High
+10,"Swift, Kilback and Schowalter",Hedge Fund,750000000,2,Risk Management,Low
+11,Swaniawski Inc,High Net Worth Individual,670000000,1,Capital Appreciation,Medium
+12,Kovacek-Kiehn,Family Office,1440000000,2,Risk Management,Low
+13,Lubowitz Inc,Family Office,230000000,1,Capital Appreciation,Medium
+14,Satterfield-Parisian,Private Equity Firm,1000000000,10,Capital Preservation,Low
+15,"Kuphal, Kassulke and Huels",Private Equity Firm,480000000,5,Capital Preservation,High
+16,"Lindgren, Pouros and Reichert",Hedge Fund,60000000,6,Capital Preservation,Medium
+17,"Schuppe, Rodriguez and Marks",Family Office,590000000,9,Risk Management,Low
+18,Walsh-Graham,Institutional,160000000,1,Risk Management,Medium
+19,Hermann Inc,Institutional,1850000000,3,Risk Management,Low
+20,"Bergnaum, Bailey and Adams",Private Equity Firm,1210000000,9,Income Generation,Low
+21,Smitham Inc,Hedge Fund,800000000,7,Risk Management,Low
+22,Wisoky-Bruen,Institutional,920000000,7,Income Generation,Low
+23,"Muller, Metz and Koch",Private Equity Firm,1570000000,5,Income Generation,Medium
+24,"Denesik, Roob and Harris",Institutional,770000000,9,Income Generation,Low
+25,"Reinger, Koss and Brekke",Institutional,1510000000,5,Capital Appreciation,Medium
+26,"Monahan, Stehr and Weber",Family Office,110000000,4,Capital Appreciation,High
+27,"Volkman, Haag and Fahey",Institutional,100000000,7,Income Generation,Medium
+28,Cummerata Inc,Institutional,240000000,5,Risk Management,High
+29,Powlowski-Boyer,Private Equity Firm,310000000,8,Risk Management,Medium
+30,Schaefer-Considine,High Net Worth Individual,420000000,2,Capital Appreciation,High
+31,"Wehner, Schoen and Reilly",High Net Worth Individual,650000000,5,Risk Management,High
+32,"Kreiger, Rolfson and Cronin",Family Office,720000000,9,Capital Appreciation,Low
+33,"Ondricka, Rippin and Cartwright",High Net Worth Individual,80000000,3,Income Generation,Low
+34,Veum-Batz,Private Equity Firm,450000000,4,Income Generation,High
+35,"Jones, Jerde and Johnston",Hedge Fund,820000000,6,Risk Management,High
+36,Hamill Group,Institutional,320000000,7,Capital Appreciation,Low
+37,Sawayn LLC,High Net Worth Individual,320000000,8,Risk Management,Low
+38,Wisozk-Schowalter,Private Equity Firm,550000000,7,Capital Appreciation,Low
+39,Sporer-Hyatt,Hedge Fund,990000000,9,Capital Preservation,Low
+40,Connelly-Larkin,Family Office,1720000000,6,Capital Appreciation,Low
+41,"Stracke, Weimann and Doyle",High Net Worth Individual,340000000,8,Capital Appreciation,High
+42,Robel Inc,High Net Worth Individual,300000000,10,Capital Appreciation,Medium
+43,Green LLC,High Net Worth Individual,860000000,8,Income Generation,Low
+44,Reichel and Sons,Institutional,790000000,3,Income Generation,High
+45,"Gleason, Grimes and Gutkowski",High Net Worth Individual,260000000,9,Capital Appreciation,High
+46,Dicki and Sons,Hedge Fund,540000000,4,Capital Appreciation,Low
+47,Feest-Huels,Hedge Fund,920000000,7,Capital Appreciation,High
+48,Doyle Inc,Family Office,240000000,9,Income Generation,Medium
+49,Kessler LLC,Institutional,1060000000,2,Capital Appreciation,Low
+50,Robel Group,High Net Worth Individual,1550000000,2,Risk Management,Low
+51,Heller Group,Hedge Fund,150000000,9,Risk Management,Medium
+52,Cole-Lehner,Family Office,820000000,1,Risk Management,High
+53,Hilll-Wilderman,Family Office,100000000,4,Risk Management,Low
+54,Konopelski-Bernier,Hedge Fund,1840000000,2,Income Generation,Medium
+55,"Haley, Terry and Denesik",Family Office,1730000000,7,Income Generation,Medium
+56,White-Schiller,Hedge Fund,240000000,10,Risk Management,Low
+57,Zulauf-Graham,Family Office,810000000,5,Income Generation,High
+58,Legros-Reichel,Private Equity Firm,150000000,1,Capital Appreciation,High
+59,"Ritchie, Fisher and Wiegand",Institutional,240000000,6,Income Generation,High
+60,Wyman and Sons,High Net Worth Individual,930000000,6,Risk Management,Low
+61,"Kessler, Sauer and Sanford",Private Equity Firm,330000000,3,Income Generation,Medium
+62,Walker LLC,Private Equity Firm,250000000,5,Capital Appreciation,Low
+63,Kovacek-Keeling,Hedge Fund,700000000,8,Capital Appreciation,Medium
+64,Collins Inc,Private Equity Firm,330000000,6,Income Generation,Medium
+65,"Hauck, Anderson and Tillman",Family Office,210000000,8,Risk Management,Low
+66,Krajcik-Runolfsdottir,Hedge Fund,220000000,3,Capital Appreciation,Low
+67,Daugherty and Sons,Hedge Fund,1820000000,5,Risk Management,High
+68,"Murphy, Champlin and Gottlieb",Hedge Fund,850000000,5,Capital Preservation,High
+69,Lindgren-Brekke,Private Equity Firm,1660000000,8,Capital Appreciation,Medium
+70,Little Group,Institutional,520000000,9,Risk Management,Medium
+71,"Thiel, Ankunding and Bednar",Hedge Fund,540000000,8,Income Generation,Medium
+72,Thiel-Cassin,Hedge Fund,690000000,4,Capital Preservation,Medium
+73,Collins-Lind,Hedge Fund,1270000000,6,Income Generation,Low
+74,Mosciski and Sons,Family Office,270000000,8,Income Generation,Low
+75,Lindgren Inc,Institutional,190000000,2,Capital Preservation,Low
+76,"Pfeffer, Welch and Konopelski",Family Office,20000000,1,Income Generation,High
+77,Murphy-Rodriguez,High Net Worth Individual,260000000,10,Risk Management,Low
+78,Pollich-Hintz,Hedge Fund,690000000,8,Risk Management,Low
+79,"Frami, Smitham and Gulgowski",High Net Worth Individual,530000000,5,Risk Management,High
+80,"Waelchi, Zemlak and Emard",Hedge Fund,250000000,1,Capital Appreciation,Low
+81,"Block, Smith and Wyman",High Net Worth Individual,930000000,9,Risk Management,High
+82,Connelly and Sons,High Net Worth Individual,390000000,1,Risk Management,Low
+83,Beahan Group,Private Equity Firm,680000000,2,Risk Management,Medium
+84,"Quitzon, Streich and Beer",Private Equity Firm,750000000,6,Capital Appreciation,High
+85,Dibbert and Sons,Private Equity Firm,1740000000,8,Risk Management,Low
+86,"Parker, Halvorson and Wisozk",Private Equity Firm,990000000,1,Capital Preservation,Medium
+87,"Roberts, DuBuque and Braun",Private Equity Firm,950000000,5,Capital Preservation,High
+88,Feil and Sons,Hedge Fund,870000000,4,Income Generation,Low
+89,Runolfsdottir-Williamson,Hedge Fund,450000000,6,Capital Preservation,High
+90,"Jacobi, Greenfelder and Gibson",Private Equity Firm,600000000,9,Income Generation,High
+91,"Schamberger, Zboncak and Muller",Hedge Fund,1950000000,2,Income Generation,Low
+92,Zulauf-Dietrich,Institutional,570000000,8,Capital Preservation,Low
+93,Daniel-Shields,Family Office,660000000,10,Income Generation,Low
+94,"Bruen, Macejkovic and Olson",Family Office,90000000,9,Risk Management,Medium
+95,"Balistreri, McDermott and Schmitt",Private Equity Firm,900000000,9,Risk Management,Low
+96,Gutmann Inc,High Net Worth Individual,1000000000,6,Income Generation,Low
+97,Wolff LLC,Family Office,1990000000,2,Risk Management,High
+98,Will and Sons,Hedge Fund,350000000,9,Income Generation,Low
+99,Zboncak and Sons,Private Equity Firm,470000000,6,Income Generation,Medium
+100,Thompson-Nikolaus,Family Office,350000000,5,Risk Management,Low
+101,"Von, Rutherford and Feeney",Family Office,150000000,3,Income Generation,Medium
+102,Durgan-Schimmel,Family Office,70000000,7,Income Generation,Low
+103,Friesen-Leuschke,Family Office,680000000,8,Capital Appreciation,High
+104,Klein-Harber,High Net Worth Individual,1170000000,6,Capital Preservation,Medium
+105,"Hirthe, Ritchie and Hane",High Net Worth Individual,630000000,9,Income Generation,High
+106,Kunde Inc,Family Office,20000000,10,Income Generation,High
+107,"Cronin, Skiles and Wiegand",Institutional,1450000000,1,Capital Appreciation,Medium
+108,Wehner-Goldner,Hedge Fund,820000000,9,Risk Management,High
+109,Konopelski LLC,Family Office,200000000,2,Capital Appreciation,High
+110,Watsica-Hagenes,Private Equity Firm,1900000000,6,Risk Management,Medium
+111,Schultz-Goyette,Private Equity Firm,1190000000,2,Capital Preservation,Medium
+112,"Bruen, Koepp and Cruickshank",High Net Worth Individual,960000000,3,Risk Management,Medium
+113,"Koepp, Hartmann and Abernathy",Private Equity Firm,730000000,2,Capital Appreciation,Medium
+114,Larkin-Jerde,Private Equity Firm,1530000000,8,Capital Appreciation,High
+115,Harvey-Kirlin,Hedge Fund,870000000,5,Capital Preservation,High
+116,Oberbrunner LLC,Hedge Fund,250000000,9,Capital Preservation,Medium
+117,Carroll-Roob,Family Office,1220000000,9,Capital Appreciation,Medium
+118,"Douglas, Bayer and Satterfield",Family Office,1970000000,3,Risk Management,Low
+119,Berge-Bergnaum,Family Office,40000000,6,Income Generation,Low
+120,Balistreri-Jones,Institutional,90000000,10,Capital Appreciation,Medium
+121,"Metz, King and Lemke",Hedge Fund,650000000,6,Capital Preservation,Low
+122,Paucek-Feeney,Family Office,270000000,6,Risk Management,Low
+123,"Bauch, Lueilwitz and Hoppe",Family Office,820000000,4,Risk Management,Medium
+124,"Gibson, Schmidt and Becker",High Net Worth Individual,940000000,4,Capital Appreciation,Low
+125,"Green, Borer and Hane",Institutional,1160000000,6,Capital Appreciation,Low
+126,Tremblay Inc,Private Equity Firm,220000000,9,Capital Preservation,Low
+127,Bogan-Daugherty,Hedge Fund,610000000,10,Capital Preservation,Medium
+128,"Krajcik, Nikolaus and Kiehn",Institutional,610000000,9,Income Generation,Medium
+129,Hamill Inc,High Net Worth Individual,980000000,3,Capital Preservation,Medium
+130,"Hoeger, Mitchell and Greenfelder",Family Office,250000000,9,Capital Appreciation,High
+131,Lehner-Sanford,Hedge Fund,580000000,8,Risk Management,Medium
+132,"Friesen, Gerhold and Conroy",High Net Worth Individual,150000000,3,Capital Appreciation,Medium
+133,Steuber Group,Institutional,370000000,8,Capital Appreciation,Low
+134,Fadel-Flatley,Institutional,250000000,9,Capital Preservation,Medium
+135,"Kuhn, Kerluke and Klein",Institutional,390000000,5,Income Generation,High
+136,Leuschke-Cummings,Private Equity Firm,1310000000,3,Income Generation,High
+137,Rice Group,Private Equity Firm,380000000,7,Capital Preservation,High
+138,Beer-Wunsch,Hedge Fund,1330000000,10,Capital Appreciation,Low
+139,"Rosenbaum, Zulauf and Strosin",Family Office,280000000,8,Capital Appreciation,Medium
+140,Nader LLC,Family Office,1160000000,7,Risk Management,Medium
+141,Wilderman-Robel,Family Office,1550000000,1,Income Generation,Medium
+142,"Stracke, Pagac and Berge",Private Equity Firm,380000000,8,Capital Appreciation,High
+143,Gorczany-Will,Private Equity Firm,1120000000,4,Risk Management,High
+144,"Koelpin, Stamm and Crist",Hedge Fund,130000000,3,Risk Management,Low
+145,"Gerhold, Cormier and Fisher",Family Office,1750000000,8,Risk Management,Low
+146,Pfeffer-Simonis,Family Office,950000000,1,Income Generation,Low
+147,King-Volkman,Institutional,920000000,7,Capital Preservation,High
+148,Kshlerin-Feest,Family Office,1890000000,3,Capital Appreciation,Medium
+149,"Kshlerin, Reichel and Johnson",Institutional,790000000,5,Capital Preservation,Low
+150,Paucek-Wisozk,Institutional,850000000,6,Capital Appreciation,High
+151,Kub LLC,Institutional,140000000,10,Capital Appreciation,Low
+152,"Padberg, MacGyver and Herman",Hedge Fund,610000000,7,Risk Management,Medium
+153,Medhurst Inc,High Net Worth Individual,650000000,5,Risk Management,Low
+154,Kassulke Inc,High Net Worth Individual,570000000,5,Income Generation,Low
+155,Crona LLC,Hedge Fund,1600000000,7,Income Generation,Medium
+156,Fisher Group,High Net Worth Individual,560000000,1,Capital Appreciation,Low
+157,Nienow Group,Hedge Fund,870000000,4,Income Generation,Low
+158,Buckridge-Zieme,High Net Worth Individual,1930000000,1,Risk Management,High
+159,Hirthe Inc,Private Equity Firm,1980000000,5,Capital Preservation,Low
+160,McCullough and Sons,Institutional,710000000,1,Income Generation,Medium
+161,Farrell Group,High Net Worth Individual,730000000,10,Income Generation,Low
+162,"Tremblay, McClure and Ruecker",Hedge Fund,30000000,9,Capital Preservation,High
+163,Hilpert-Flatley,Institutional,210000000,7,Capital Preservation,Medium
+164,Kozey and Sons,Private Equity Firm,170000000,5,Capital Appreciation,Medium
+165,"Aufderhar, Baumbach and Kshlerin",Institutional,1930000000,3,Income Generation,High
+166,"Schaefer, Schmeler and Morar",High Net Worth Individual,360000000,4,Income Generation,High
+167,Turcotte-Lehner,Private Equity Firm,160000000,7,Risk Management,High
+168,Lowe and Sons,Hedge Fund,1460000000,1,Income Generation,Low
+169,Legros-Gusikowski,Family Office,970000000,6,Risk Management,Low
+170,Koelpin-Schmeler,Family Office,1080000000,10,Capital Preservation,Low
+171,"VonRueden, Ratke and Murray",Private Equity Firm,1180000000,8,Capital Preservation,Medium
+172,Maggio Inc,Family Office,1880000000,10,Capital Preservation,Medium
+173,Mertz LLC,Private Equity Firm,1620000000,9,Capital Appreciation,High
+174,Schuppe Group,Institutional,200000000,1,Capital Preservation,High
+175,Batz-Wuckert,Private Equity Firm,620000000,8,Income Generation,High
+176,Zboncak-Reichel,Institutional,1100000000,3,Income Generation,High
+177,Farrell-Friesen,Institutional,720000000,6,Risk Management,Low
+178,Schaefer and Sons,High Net Worth Individual,1240000000,5,Capital Preservation,Medium
+179,Collins-Volkman,Private Equity Firm,510000000,7,Capital Appreciation,Low
+180,Bosco Group,Private Equity Firm,1100000000,1,Capital Preservation,Low
+181,Wunsch-Willms,Private Equity Firm,380000000,5,Income Generation,Medium
+182,"Robel, Schoen and Berge",Private Equity Firm,310000000,7,Risk Management,High
+183,Collier-Romaguera,Family Office,460000000,7,Risk Management,Low
+184,Hartmann Inc,Hedge Fund,690000000,5,Capital Appreciation,Medium
+185,Pfeffer-Stamm,Family Office,820000000,4,Risk Management,Low
+186,Botsford and Sons,Hedge Fund,1960000000,5,Capital Appreciation,Medium
+187,"Gleichner, Ruecker and O'Kon",High Net Worth Individual,420000000,4,Capital Appreciation,Medium
+188,"Beatty, Bins and Kohler",High Net Worth Individual,30000000,3,Risk Management,Medium
+189,Feeney Group,High Net Worth Individual,760000000,5,Capital Appreciation,Low
+190,"Batz, Deckow and Rippin",Private Equity Firm,1690000000,7,Risk Management,Medium
+191,"Rippin, Erdman and Luettgen",Family Office,240000000,6,Income Generation,High
+192,Runte-Crist,High Net Worth Individual,470000000,8,Income Generation,High
+193,Schmeler-Prohaska,High Net Worth Individual,790000000,6,Capital Appreciation,Low
+194,Nikolaus-Purdy,Private Equity Firm,480000000,8,Capital Appreciation,Low
+195,Kshlerin-Douglas,Institutional,270000000,6,Risk Management,Low
+196,Beatty-Windler,Institutional,1700000000,1,Capital Preservation,Medium
+197,Olson-Hand,Family Office,690000000,2,Risk Management,Low
+198,Prohaska-Lynch,High Net Worth Individual,470000000,9,Capital Appreciation,High
+199,Walter-Jast,Family Office,340000000,6,Risk Management,Medium
+200,Collier and Sons,Private Equity Firm,410000000,8,Risk Management,Medium
+201,"Gislason, Brakus and West",Family Office,1240000000,6,Income Generation,High
+202,Stamm and Sons,Institutional,1600000000,2,Income Generation,Low
+203,Reinger and Sons,Family Office,800000000,4,Income Generation,High
+204,"Crona, McDermott and Hodkiewicz",Private Equity Firm,1060000000,2,Capital Preservation,Low
+205,Homenick-Blanda,High Net Worth Individual,210000000,3,Capital Preservation,High
+206,"Schneider, Jenkins and Ernser",Private Equity Firm,1180000000,9,Capital Preservation,Low
+207,Daugherty Group,Hedge Fund,290000000,5,Capital Appreciation,Medium
+208,Mueller LLC,High Net Worth Individual,910000000,5,Risk Management,Medium
+209,"Koelpin, McGlynn and Swift",Private Equity Firm,190000000,2,Income Generation,Medium
+210,"Towne, Sporer and Weissnat",Private Equity Firm,720000000,1,Capital Appreciation,Medium

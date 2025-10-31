@@ -1,0 +1,25 @@
+id,fund_name,ticker,type
+1,Bitwise 10 Crypto Index Fund,BITW,Publicly Traded
+2,Bitwise Trendwise BTC/ETH and Treasuries Rotation Strategy ETF,BTOP,Publicly Traded
+3,Bitwise Bitcoin ETF,BITB,Publicly Traded
+4,Bitwise Ethereum ETF,ETHW,Publicly Traded
+5,Bitwise Bitcoin Standard Corporations ETF,OWNB,Publicly Traded
+6,Bitwise COIN Option Income Strategy ETF,ICOI,Publicly Traded
+7,Bitwise CRCL Option Income Strategy ETF,ICRC,Publicly Traded
+8,Bitwise Ethereum Option Income Strategy ETF,IETH,Publicly Traded
+9,Bitwise GME Option Income Strategy ETF,IGME,Publicly Traded
+10,Bitwise MARA Option Income Strategy ETF,IMRA,Publicly Traded
+11,Bitwise MSTR Option Income Strategy ETF,IMST,Publicly Traded
+12,Bitwise Solana Staking ETF,BSOL,Publicly Traded
+13,Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF,BITC,Publicly Traded
+14,Bitwise Crypto Industry Innovators ETF,BITQ,Publicly Traded
+15,Bitwise Trendwise Ethereum and Treasuries Rotation Strategy ETF,AETH,Publicly Traded
+16,Bitwise Web3 ETF,BWEB,Publicly Traded
+17,Bitwise 10 Crypto Index Fund (non-OTC Trust),,Private Fund
+18,Bitwise 10 ex Bitcoin Crypto Index Fund,,Private Fund
+19,Bitwise 10 Index Offshore Fund,,Private Fund
+20,Bitwise Bitcoin Fund,,Private Fund
+21,Bitwise Blue-Chip NFT Index Fund,,Private Fund
+22,Bitwise DeFi Crypto Index Fund,,Private Fund
+23,Bitwise Ethereum Fund,,Private Fund
+24,Bitwise Uniswap Fund,,Private Fund
