@@ -1,0 +1,12 @@
+version: 2
+sources:
+  - name: raw
+    database: bitwise_demo
+    schema: raw
+    tables:
+      - name: campaign_dim
+      - name: client_dim
+      - name: fund_dim
+      - name: date_dim
+      - name: channel_dim
+      - name: gtm_fact
