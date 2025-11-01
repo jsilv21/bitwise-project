@@ -24,7 +24,7 @@ def load_data():
         SUM(f.leads) AS leads,
         SUM(f.new_signups) AS new_signups,
         SUM(f.assets_under_management) AS total_aum
-    FROM gtm_fact f
+    FROM stg_gtm_fact f
     JOIN date_dim d ON f.date_id = d.id
     JOIN client_dim c ON f.client_id = c.id
     JOIN campaign_dim ca ON f.campaign_id = ca.id
