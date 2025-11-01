@@ -71,11 +71,37 @@ st.markdown("### 🧲 Impressions vs Clicks by Channel")
 channel_perf = df.groupby("CHANNEL_NAME")[["IMPRESSIONS", "CLICKS"]].sum()
 st.bar_chart(channel_perf)
 
-st.markdown("### 💼 Average Fund Price by Fund")
-fund_price = (
-    df.groupby("FUND_NAME")["AVG_PRICE_USD"].mean().sort_values(ascending=False)
+
+# --- FUND AUM OVER TIME (NEW VIEW) ---
+st.markdown("### 📈 Fund AUM Over Time")
+
+# list unique funds
+funds = sorted(df["FUND_NAME"].dropna().unique().tolist())
+
+# multiselect shows checkboxes for selection
+selected_funds = st.multiselect(
+    "Select funds to display (use checkboxes)", options=funds, default=funds[:3]
 )
-st.bar_chart(fund_price)
+
+# optional scaling checkbox
+scale_millions = st.checkbox("Show AUM in millions (scale)", value=True)
+
+if selected_funds:
+    aum_df = (
+        df[df["FUND_NAME"].isin(selected_funds)]
+        .groupby(["DATE", "FUND_NAME"])["TOTAL_AUM"]
+        .sum()
+        .reset_index()
+    )
+    # pivot for multi-line chart
+    aum_pivot = aum_df.pivot(
+        index="DATE", columns="FUND_NAME", values="TOTAL_AUM"
+    ).fillna(0)
+    if scale_millions:
+        aum_pivot = aum_pivot / 1_000_000
+    st.line_chart(aum_pivot)
+else:
+    st.info("Select one or more funds to view AUM over time.")
 
 # --- DATA TABLE ---
 st.markdown("### Raw Sample Data")
