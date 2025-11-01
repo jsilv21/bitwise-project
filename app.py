@@ -9,6 +9,12 @@ st.set_page_config(page_title="Bitwise GTM Analytics Demo", layout="wide")
 creds = st.secrets["snowflake"]
 conn = snowflake.connector.connect(**creds)
 
+# Explicitly set context
+conn.cursor().execute(f"USE ROLE {creds['role']}")
+conn.cursor().execute(f"USE WAREHOUSE {creds['warehouse']}")
+conn.cursor().execute(f"USE DATABASE {creds['database']}")
+conn.cursor().execute(f"USE SCHEMA {creds['schema']}")
+
 
 @st.cache_data(ttl=300)
 def load_data(start_date, end_date):
