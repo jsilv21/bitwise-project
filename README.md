@@ -22,8 +22,6 @@ S3 -> Snowflake -> dbt -> Streamlit.
 - Transform raw tables into analytics models using dbt.
 - Expose results via a Streamlit app ([app.py](app.py)) for dashboards and exploration.
 
-See the architecture diagram in [docs/architecture.md](docs/architecture.md).
-
 ## How it works (high level)
 
 1. Raw data (examples in CSVs [sample-data](/sample-data/)) is ingested to S3 staging.
@@ -83,7 +81,9 @@ flowchart TD
 ![AWS S3](/images/s3.png)
 ![AWS IAM](/images/aws-iam-1.png)
 ![AWS IAM](/images/aws-iam-2.png)
+
 **Database Design**
 ![DB Design](/images/bitwise-db-diagram.png)
+
 **Snowflake**
 ![Snowflake](/images/snowflake.png)
