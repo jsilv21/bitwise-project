@@ -43,10 +43,10 @@ def load_data(start_date, end_date):
 
 
 # --- DATE FILTER ---
-st.title("📈 Bitwise GTM Analytics Dashboard")
+st.title("📈 Bitwise GTM Analytics Demo Dashboard")
 
-default_start = "2025-02-01"
-default_end = "2025-02-28"
+default_start = "2025-01-01"
+default_end = "2025-12-31"
 start_date, end_date = st.date_input(
     "Select Date Range",
     value=(pd.to_datetime(default_start), pd.to_datetime(default_end)),
