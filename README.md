@@ -10,7 +10,7 @@
 
 ## Analytics Dashboard
 
-[Dashboard Link (Streamlit Cloud)](https://bitwise-project-4cy7bj2gtmqirkfpsrgxwx.streamlit.app/)
+[Dashboard Link (Streamlit Cloud)](https://bitwise-demo.streamlit.app/)
 
 ## Overview
 
