@@ -9,11 +9,11 @@ select
     ch.channel_type,
     fu.fund_name,
     fu.ticker,
-    f.impressions,
-    f.clicks,
-    f.leads,
-    f.new_signups,
-    f.assets_under_management,
+    ROUND(f.impressions/500,0) AS impressions,
+    ROUND(f.clicks/100,0) AS clicks,
+    ROUND(f.leads/2,0) AS leads,
+    ROUND(f.new_signups/10,0) AS new_signups,
+    ROUND(f.assets_under_management/1000,0) AS assets_under_management,
     f.price_usd,
     f.weight
 from {{ source("raw", "gtm_fact") }} f
